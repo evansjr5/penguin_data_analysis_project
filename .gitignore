@@ -2,5 +2,5 @@
 *.csv
 *.Rhistory
 *.RData
-*.DS_tore
+*.DS_Store
 *.Rproj
