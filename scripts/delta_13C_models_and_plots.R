@@ -327,4 +327,4 @@ model_plot_13C = ggarrange(
 ##                   ##
 #### Saving Figure ####
 ##                   ##
-ggsave("plots/peng_delta_13C_plt.png", width = 12, height = 10, dpi = 800, bg = "white")
+ggsave("plots/peng_delta_13C_plot.png", width = 12, height = 10, dpi = 800, bg = "white")
