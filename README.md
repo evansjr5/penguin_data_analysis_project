@@ -1,5 +1,5 @@
-# penguin_data_analysis_project
- QCB course CPBP8306-02 Data Analysis
+# Penguin Data Analysis and Machine Learning Project
+ **QCB course CPBP8306-02 Data Analysis**
  
  Data Availability: https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
  
