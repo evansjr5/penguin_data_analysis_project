@@ -1,5 +1,5 @@
-.Rproj.user
-.csv
-.Rhistory
-.RData
-.DS_tore
+*.Rproj.user
+*.csv
+*.Rhistory
+*.RData
+*.DS_tore
