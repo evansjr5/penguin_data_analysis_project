@@ -1,0 +1,21 @@
+   Species             Region             Island             Stage           Individual.ID     
+ Length:324         Length:324         Length:324         Length:324         Length:324        
+ Class :character   Class :character   Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character   Mode  :character   Mode  :character  
+                                                                                               
+                                                                                               
+                                                                                               
+ Clutch.Completion    Date.Egg         Culmen.Length..mm. Culmen.Depth..mm. Flipper.Length..mm. Body.Mass..g. 
+ Length:324         Length:324         Min.   :32.10      Min.   :13.10     Min.   :172.0       Min.   :2700  
+ Class :character   Class :character   1st Qu.:39.50      1st Qu.:15.57     1st Qu.:190.0       1st Qu.:3550  
+ Mode  :character   Mode  :character   Median :44.95      Median :17.30     Median :197.0       Median :4050  
+                                       Mean   :44.05      Mean   :17.13     Mean   :201.2       Mean   :4214  
+                                       3rd Qu.:48.70      3rd Qu.:18.60     3rd Qu.:213.0       3rd Qu.:4800  
+                                       Max.   :59.60      Max.   :21.50     Max.   :231.0       Max.   :6300  
+     Sex            Delta.15.N..o.oo. Delta.13.C..o.oo.
+ Length:324         Min.   : 7.632    Min.   :-27.02   
+ Class :character   1st Qu.: 8.304    1st Qu.:-26.33   
+ Mode  :character   Median : 8.659    Median :-25.84   
+                    Mean   : 8.740    Mean   :-25.69   
+                    3rd Qu.: 9.181    3rd Qu.:-25.06   
+                    Max.   :10.025    Max.   :-23.89   
