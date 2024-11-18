@@ -45,3 +45,10 @@ ggsave("plots/individual_plots/correlation_plot.png")
 
 plot_scatterplot(split_columns(clean_penguin)$continuous, by = "Culmen.Length..mm.", sampled_rows = 1000L)
 ggsave("plots/individual_plots/scatterplot_culmen_length.png")
+
+# Report of clean data
+create_report(
+  data = clean_penguin,
+  output_file = "penguin_exploration_graphs.html",
+  output_dir = "/Users/jamesevans/Documents/GitHub/Vanderbilt/penguin_data_analysis_project/plots/"
+  )
